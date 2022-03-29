@@ -1,5 +1,4 @@
 # OpenCV_HistogramComparison
-<<<<<<< HEAD
 Image comparison by image histograms using OpenCV (Computer vision class assignment)
 
 
@@ -31,6 +30,13 @@ cv::Size patchSize(140, 140);
 ```
 
 * autoeval.cpp is used for iterating tests to find the right parameters.
-=======
-Image comparison by image histograms using OpenCV(Computer vision class assignment)
->>>>>>> ff8fb854fe13b644e320ee4304efe9d65a709c03
+
+Test result 1
+![image](https://user-images.githubusercontent.com/11360981/160683749-ed3350be-e06e-48db-986b-b0e13b652425.png)
+Histograms of test result 1
+![image](https://user-images.githubusercontent.com/11360981/160683815-a3bdb9bc-e501-453c-83ba-5cae3448e13b.png)
+
+Test result 2
+![image](https://user-images.githubusercontent.com/11360981/160684092-857deb52-d76d-40d0-b0fa-a9f363653fef.png)
+
+
