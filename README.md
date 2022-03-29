@@ -33,7 +33,7 @@ cv::Size patchSize(140, 140);
 
 ## Test result 1
 ![image](https://user-images.githubusercontent.com/11360981/160683749-ed3350be-e06e-48db-986b-b0e13b652425.png)
-#Histograms of test result 1
+## Histograms of test result 1
 ![image](https://user-images.githubusercontent.com/11360981/160683815-a3bdb9bc-e501-453c-83ba-5cae3448e13b.png)
 
 ## Test result 2
